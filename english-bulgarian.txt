@@ -1,2 +1,2 @@
-#format => word: description
-abort: прекратяване на нещо
+#format => word: [transcription] description
+abort: [əˈbɔː(r)t] прекратяване на нещо

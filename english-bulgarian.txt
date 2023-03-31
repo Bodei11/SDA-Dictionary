@@ -1,0 +1,2 @@
+#format => word: description
+abort: прекратяване на нещо

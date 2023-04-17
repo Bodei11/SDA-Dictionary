@@ -1,4 +1,175 @@
 #формат => дума: описание
-антика: an old item of cultural value
-баба яга: an old hag
-бор: coniferous tree - pine
+
+абзац: paragraph - a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.
+адски: hellish - of or like hell.
+азбука: alphabet - a set of letters or symbols in a fixed order used to represent the basic set of speech sounds of a language, especially the set of letters from A to Z.
+аматьор: amateur - a person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis.
+амулет: amulet - an ornament or small piece of jewellery thought to give protection against evil, danger, or disease.
+
+баба: grandma - the mother of one's father or mother.
+басейн: pool - a small area of still water, typically one formed naturally.
+благодарен: grateful - feeling or showing an appreciation for something done or received.
+буквален: literal - taking words in their usual or most basic sense without metaphor or exaggeration.
+бързо: fast - moving or capable of moving at high speed.
+
+валеж: rain - the condensed moisture of the atmosphere falling visibly in separate drops.
+верен: true - in accordance with fact or reality.
+вечер: night - the period from sunset to sunrise in each twenty-four hours.
+височина: height - the measurement of someone or something from head to foot or from base to top.
+вятър: wind - the perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.
+
+гадене: nausea - a feeling of sickness with an inclination to vomit.
+гледка: sight - a thing that one sees or that can be seen.
+гражданин: citizen - a legally recognized subject or national of a state or commonwealth, either native or naturalized.
+грозен: ugly - unpleasant or repulsive, especially in appearance.
+гръмотевица: thunder - a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.
+
+дар: gift - a thing given willingly to someone without payment; a present.
+див: wild - living or growing in the natural environment; not domesticated or cultivated.
+добър: good - to be desired or approved of.
+другояче: otherwise - in circumstances different from those present or considered; or else.
+дявол: devil - (in Christian and Jewish belief) the supreme spirit of evil; Satan.
+
+егоист: egoist - a person who is preoccupied with his own interests.
+електричество: electricity - a form of energy resulting from the existence of charged particles (such as electrons or protons), either statically as an accumulation of charge or dynamically as a current.
+енциклопедия: encyclopedia - a book or set of books giving information on many subjects or on many aspects of one subject and typically arranged alphabetically.
+есен: autumn - the season after summer and before winter, in the northern hemisphere from September to November and in the southern hemisphere from March to May.
+естествен: natural - existing in or produced by nature.
+
+жаба: frog - a tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.
+жив: alive - not dead; living.
+жилище: residence - a person's home, especially a large and impressive one.
+журналист: journalist - a person who writes for newspapers, magazines, or news websites or prepares news to be broadcast.
+жътва: harvest - the process or period of gathering in crops.
+
+забавен: funny - causing laughter or amusement; humorous.
+завет: covenant - an agreement.
+загуба: loss - the fact or process of losing something or someone.
+закрила: protection - keeping something or someone safe.
+здрав: healthy - in a good physical or mental condition; in good health.
+
+игра: game - an activity that one engages in for amusement or fun.
+изоставям: abandon - to leave something that you are responsible for, usually permanently
+инвеститор: investor - a person or organization that puts money into financial schemes, property, etc. with the expectation of achieving a profit.
+интерес: interest - the feeling of wanting to know or learn about something or someone.
+информация: information - facts provided or learned about something or someone.
+
+йерарх: hierarch - a chief priest, archbishop, or other leader.
+йогурт: yogurt - a semi-solid food prepared from milk fermented by added bacteria, often sweetened and flavoured.
+йога: yoga - a Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practised for health and relaxation.
+йод: iodine - the chemical element of atomic number 53, a non-metallic element forming black crystals and a violet vapour.
+йон: ion - an atom or molecule with a net electric charge due to the loss or gain of one or more electrons.
+
+кавалерия: cavalry - (in the past)soldiers who fought on horseback; (modern) soldiers who fight in armoured vehicles.
+кадифе: velvet - a closely woven fabric of silk, cotton, or nylon, that has a thick short pile on one side.
+кола: car - a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people.
+контакт: contact - the state of physical touching.
+кормило: steering wheel - a wheel that a driver rotates in order to steer a vehicle.
+
+лак: nail polish - varnish applied to the fingernails or toenails to colour them or make them shiny.
+лек: light - of little weight; not heavy.
+лепило: glue - an adhesive substance used for sticking objects or materials together.
+лесен: easy - achieved without great effort; presenting few difficulties.
+луд: crazy - mad, especially as manifested in wild or aggressive behaviour.
+
+магазин: shop - a building or part of a building where goods or services are sold.
+май: May - the fifth month of the year, in the northern hemisphere usually considered the last month of spring.
+майор: major - a rank of officer in the army and the US air force, above captain and below lieutenant colonel.
+мрак: darkness - the partial or total absence of light.
+мрежа: web - a network of fine threads constructed by a spider from fluid secreted by its spinnerets, used to catch its prey.
+
+награда: reward - a thing given in recognition of service, effort, or achievement.
+нагъл: cheeky - showing a lack of respect or politeness in a way that is amusing or appealing.
+наследство: inheritance - the assets that an individual bequeaths to their loved ones after they pass away. 
+наука: science - the systematic study of the structure and behaviour of the physical and natural world through observation, experimentation, and the testing of theories against the evidence obtained.
+ненормален: abnormal - different from what is normal or usual
+
+обект: object - a material thing that can be seen and touched.
+обет: vow - a solemn promise.
+обещание: promise - a declaration or assurance that one will do something or that a particular thing will happen.
+обир: robbery - the action of taking property unlawfully from a person or place by force or threat of force.
+обич: love - a profoundly tender, passionate affection for another person.
+
+пазар: market - a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.
+пакост: mischief - playful misbehaviour, especially on the part of children.
+пейзаж: landscape - all the visible features of an area of land, often considered in terms of their aesthetic appeal.
+пиано: piano - a large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed. The strings' vibration is stopped by dampers when the keys are released and can be regulated for length and volume by two or three pedals.
+пилот: pilot - a person who operates the flying controls of an aircraft.
+
+работа: work - activity involving mental or physical effort done in order to achieve a purpose or result.
+равен: equal - being the same in quantity, size, degree, or value.
+разлика: difference - a point or way in which people or things are dissimilar.
+редовен: regular - arranged in or constituting a constant or definite pattern, especially with the same space between individual instances.
+ремонт: repair - restore (something damaged, faulty, or worn) to a good condition.
+
+сам: alone - having no one else present.
+село: village - a group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.
+сдържан: aloof - not friendly to other people; distant.
+слаб: weak - lacking the power to perform physically demanding tasks; having little physical strength or energy.
+смърт: death - the action or fact of dying or being killed; the end of the life of a person or organism.
+
+таблица: chart - a sheet of information in the form of a table, graph, or diagram.
+тайна: secret - not known or seen or not meant to be known or seen by others.
+талант: talent - natural aptitude or skill.
+твърд: hard - solid, firm, and rigid; not easily broken, bent, or pierced.
+тема: topic - a matter dealt with in a text, discourse, or conversation; a subject.
+
+убеден: convinced - completely sure about something.
+увеличение: raise - lift or move to a higher position or level.
+ужасен: terrified - cause to feel extreme fear.
+умалявам: shrink - become or make smaller in size or amount.
+ускорявам: accelerate - to go faster, to make something happen faster
+
+фабрика: factory - a building or group of buildings where goods are manufactured or assembled chiefly by machine.
+фаза: phase - a distinct period or stage in a series of events or a process of change or development.
+фамилия: family - a group of two or more persons related by birth, marriage, or adoption who live together.
+фармацевт: pharmacist - a person who is professionally qualified to prepare and dispense medicinal drugs.
+фотография: photography - the art or practice of taking and processing photographs.
+
+хаос: chaos - complete disorder and confusion.
+хапка: bite - (of a person or animal) use the teeth to cut into or through something.
+хапче: pill - a small round mass of solid medicine for swallowing whole.
+хармония: harmony - the combination of simultaneously sounded musical notes to produce a pleasing effect.
+харпун: harpoon - a barbed missile resembling a spear that is attached to a long rope and thrown by hand or fired from a gun, used for catching whales and other large sea creatures.
+
+цар: czar, king - the male ruler of an independent state, especially one who inherits the position by right of birth.
+цвете: flower - the seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly coloured corolla (petals) and a green calyx (sepals).
+цвят: colour - the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.
+цена: price - the amount of money expected, required, or given in payment for something.
+цял: whole - all of; entire.
+
+чадър: umbrella - a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain.
+час: hour - a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes.
+част: part - an amount or section which, when combined with others, makes up the whole of something.
+чаша: cup, glass - a small bowl-shaped container for drinking from, typically having a handle.
+черно: black - of the very darkest colour owing to the absence of or complete absorption of light; the opposite of white.
+
+шаблон: template - a shaped piece of rigid material used as a pattern for processes such as cutting out, shaping, or drilling.
+шадраван: fountain - an ornamental structure in a pool or lake from which one or more jets of water are pumped into the air.
+шанс: chance - a possibility of something happening.
+шах: chess - a board game of strategic skill for two players, played on a chequered board on which each playing piece is moved according to precise rules. The object is to put the opponent's king under a direct attack from which escape is impossible ( checkmate ).
+шум: noise - a sound, especially one that is loud or unpleasant or that causes disturbance.
+
+щангист: weight lifter - one who lifts barbells in competition or as an exercise.
+щастие: happiness - the state of being happy.
+щедрост: generosity - the quality of being kind and generous.
+щит: shield - a broad piece of metal or another suitable material, held by straps or a handle attached on one side, used as a protection against blows or missiles.
+щурм: rush, charge - a sudden quick movement towards something, typically by a number of people.
+
+ъглест: angular - with sharp points or corners
+ъгловатост: angularity - the property possessed by a shape that has angles
+ъгловиден: angular - with sharp points or corners
+ъглометър: protractor - an instrument for measuring angles, typically in the form of a flat semicircle marked with degrees along the curved edge.
+ъгъл: angle - the space between two lines or surfaces that meet, measured in degrees.
+
+юбилей: anniversary - the date on which an event took place or an institution was founded in a previous year.
+юг: south - the direction towards the point of the horizon 90° clockwise from east, or the point on the horizon itself.
+юмрук: fist - a person's hand when the fingers are bent in towards the palm and held there tightly, typically in order to strike a blow or grasp something.
+юнак: hero - a person who is admired for their courage, outstanding achievements, or noble qualities.
+юноша: teenager - a person aged between 13 and 19 years.
+
+ябълка: apple - a hard round fruit with a smooth red, green or yelow skin.
+явен: apparent - clear, easy to see. 
+ядро: core - the part of something that is central to its existence or character.
+яйце: egg - an oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.
+ям: eat - put (food) into the mouth and chew and swallow it.

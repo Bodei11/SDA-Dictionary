@@ -1,3 +1,4 @@
 #формат => дума: описание
 антика: an old item of cultural value
 баба яга: an old hag
+бор: coniferous tree - pine
